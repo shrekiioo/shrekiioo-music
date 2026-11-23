@@ -176,3 +176,14 @@ asar-contents.txt
 
 # Optional local data
 data/*.json
+
+/.venv
+/Releases
+/backup
+/src-pre-SHREKIIOO-2
+
+/build-log.txt
+/asar-contents.txt
+
+*.bak
+*.bak-*
