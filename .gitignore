@@ -155,3 +155,24 @@ vite.config.ts.timestamp-*
 .nx/cache
 .nx/workspace-data
 .nx/migrate-runs
+
+# Shrekiioo development files
+.venv/
+Releases/
+backup/
+src-pre-SHREKIIOO-2/
+
+# Build artifacts
+out/
+
+# Logs and reports
+build-log.txt
+asar-contents.txt
+
+# Backups
+*.bak
+*.bak-*
+*.old
+
+# Optional local data
+data/*.json
